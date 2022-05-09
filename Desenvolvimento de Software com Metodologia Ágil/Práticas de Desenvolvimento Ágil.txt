@@ -1,0 +1,31 @@
+A importância das práticas de desenvolvimento ágil
+
+	Um dos principais motivos que pode levar um projeto ao fracasso é a falta de
+comunicação entre os envolvidos. Esse é um problema comum que está presente
+em diversas empresas, o que acaba resultando em baixa produtividade, retrabalho,
+atrasos nas entregas. Desse modo, o objetivo final do projeto não é alcançado e
+gera prejuízo tanto para a empresa quanto para o cliente.
+
+	Para uma gestão mais eficiente de um projeto, fazendo entregas com
+qualidade e dentro do prazo, reduzindo falhas, retrabalho e aumentando a agilidade,
+é recomendável adotar práticas de desenvolvimento ágil. A começar pelo
+planejamento, que é a etapa onde é identificado o objetivo do projeto e definidos os
+requisitos. Uma reunião (Sprint Planning) deve ser feita com todos os membros do
+time para um alinhamento das tarefas que precisam ser realizadas, gerando assim o
+backlog. Além do sprint planning, há outras práticas que podem ser utilizadas
+durante o desenvolvimento do projeto, que são, o código coletivo e a refatoração do
+código-fonte que facilitam a identificação de erros, melhorando consideravelmente, a
+qualidade do código. A realização de testes é muito importante para que o produto
+seja entregue ao cliente final com integridade. O teste unitário, feito por uma pessoa
+desenvolvedora ou testadores, consiste em validar cada parte do código para evitar
+erros após cada vez que é feita uma atualização do sistema, porém há também
+outros tipos de testes, como o TDD (Test Driven Development), que se baseia na
+repetição de pequenos ciclos e possui 3 fases, vermelha, verde e fatoração. Por fim,
+a prática de entrega ágil, é feita por partes, através do uso de uma ferramenta de
+automatização, onde pequenos incrementos que geram resultados demonstráveis
+são entregues para que a equipe possa receber um feedback do cliente.
+
+	Um projeto feito de forma colaborativa, onde há comunicação entre os
+membros da equipe, onde se utilizam as práticas do Manifesto Ágil, sendo feitos os
+devidos testes e mantendo um fluxo contínuo de entregas, maiores são as chances
+de se obter sucesso, alcançando seu objetivo com um produto de qualidade.

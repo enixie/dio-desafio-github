@@ -1,0 +1,31 @@
+Métodos ágeis: toda empresa deveria usar
+
+	Muitas empresas apresentam resistência às mudanças do mercado e
+permanecem, durante anos, com os mesmos procedimentos, que se tornam
+ineficazes à medida que novas tecnologias vão surgindo. A falta de interesse em
+mudar ou atualizar procedimentos que sempre deram certo deixa a organização em
+desvantagem quando surge uma empresa que adota metodologias ágeis. Quando
+uma empresa começa a perder seu lugar no mercado é preciso rever seus métodos
+para que haja melhorias.
+
+	No caso onde uma empresa que utiliza o modelo cascata em seus processos
+de desenvolvimento começa a ter uma queda na qualidade do produto, suas
+funcionalidades não geram aumento de valor e perdem meses nas correções de
+bugs, é necessário mudar sua metodologia de gestão se quiser manter-se no
+mercado competitivo. Com a utilização de um método ágil ou mais, como o Kanban,
+o Scrum ou o XP, por exemplo, a empresa vai fazer as entregas dos processos por
+etapas facilitando os testes e a validação a partir de um protótipo inicial, ou Produto
+Mínimo Viável, efetuando alterações e melhorias caso seja necessário. Com o foco
+nos quatro valores: Indivíduos e interações, software em funcionamento,
+colaboração com o cliente e responder a mudanças, sem negligenciar a importância
+dos valores restantes, o desenvolvimento ganha mais agilidade na entrega e maior
+qualidade. A utilização do manifesto ágil no desenvolvimento de projetos traz
+vantagens tanto para a equipe desenvolvedora quanto para o cliente. A qualidade do
+produto melhora, as entregas por etapas são mais rápidas e frequentes, há
+diminuição de custos e riscos.
+
+	Há outros frameworks ágeis além dos já citados, como PDCA, Lean Startup,
+SAFe, MSF, FDD, entre outros. Cada um deles com suas particularidades, como
+monitoramento das atividades, identificação de gargalos e desperdícios, testes,
+construção, mensuração, comunicação, simplicidade. Basta a empresa avaliar o que
+mais se adequa ao seu projeto e aplicá-las de forma correta.
