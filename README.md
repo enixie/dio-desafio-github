@@ -1,2 +1,2 @@
-# dio-desafio-github
-Desafio de Projeto Git/GitHub
+# Desafio de Criação de Repositório Git/GitHub
+DESAFIO DE PROJETO - Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
